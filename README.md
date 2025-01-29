@@ -29,11 +29,9 @@
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
+- 🎙️ **Tema 1:** Feedback Personalizado sobre Comunicação
+- 🤝 **Tema 2:** Treinamento de Empatia e Escuta Ativa
+- 🚀 **Tema 3:** Desenvolvimento de Criatividade e Tomada de Decisão
 
 ---
 
