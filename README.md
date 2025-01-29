@@ -6,19 +6,16 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+- [Adriana Fernandes Policia](https://www.linkedin.com/in/adriana-policia-01b25934a)
+- [Antônio Augusto Tavares Ribeiro André](https://www.linkedin.com/in/antonio-andre-613937345)
+- [Celso Rodrigues Rocha Júnior](https://www.linkedin.com/in/celsojwnior)
+- [Enzo Piol Cerutti](https://www.linkedin.com/in/enzo-piol-cerutti-b4ba8a345)
+- [Letícia Fernandes do Espírito Santo Saravia](https://www.linkedin.com/in/letícia-fernandes-619b73345)
 
 ---
 
 ## **📄 Descrição do Projeto**  
-> _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+> _Este agente de IA foi desenvolvido no Hackathon Tech to Lead: Transformando liderança com IA e tem como objetivo auxiliar profissionais a aprimorarem suas habilidades de comunicação, criatividade, empatia e comprometimento, tornando-os líderes mais eficazes em seus respectivos campos de atuação._
 
 ---
 
