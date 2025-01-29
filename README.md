@@ -41,9 +41,8 @@
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 🎥 _[Leandro Karnal em O Futuro da Liderança (BTG Pactual)](https://youtu.be/b9A34yUvzEc?si=V5eti8sNn1k_bwi1)_  
+- 📙 _[O poder da inteligência emocional]_    
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
