@@ -38,7 +38,7 @@
 ## **📚 Bases de Conhecimento**  
 
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 _[AgenteGPT](https://github.com/celsick/InteliHackathonOnboarding2025/blob/main/prompts.txt)_
 
 ### **📘 Principais Referências Utilizadas:**  
 - 🎥 _[Leandro Karnal em O Futuro da Liderança (BTG Pactual)](https://youtu.be/b9A34yUvzEc?si=V5eti8sNn1k_bwi1)_  
