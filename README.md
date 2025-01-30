@@ -43,3 +43,9 @@
 ### **📘 Principais Referências Utilizadas:**  
 - 🎥 _[Leandro Karnal em O Futuro da Liderança (BTG Pactual)](https://youtu.be/b9A34yUvzEc?si=V5eti8sNn1k_bwi1)_  
 - 📙 _[O poder da inteligência emocional](https://www.amazon.com.br/poder-intelig%C3%AAncia-emocional-sensibilidade-efici%C3%AAncia/dp/8547000631/ref=asc_df_8547000631/?tag=googleshopp00-20&linkCode=df0&hvadid=709965221165&hvpos=&hvnetw=g&hvrand=12876611158969712255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198796&hvtargid=pla-805715581396&psc=1&mcid=2c45430633433d01ac8e861ce24b8372&gad_source=1)_
+
+### **📖 Documentações Complementares:**
+
+- 📎[https://frons.com.br/blog/gestao-empresarial/como-ser-bom-lider/](https://frons.com.br/blog/gestao-empresarial/como-ser-bom-lider/) 29/01/2025 15:52
+- 📎[https://frons.com.br/blog/gestao-empresarial/como-ser-bom-lider/](https://almgentegestao.com.br/noticias/lideranca-tecnologia-e-equipe-como-vencer-na-era-digital) 29/01/2025 18:00
+- 📎[https://exame.com/bussola/344-das-liderancas-se-sentem-inseguras-para-conduzir-e-engajar-times/](https://exame.com/bussola/344-das-liderancas-se-sentem-inseguras-para-conduzir-e-engajar-times/) 30/01/2025 10:58
